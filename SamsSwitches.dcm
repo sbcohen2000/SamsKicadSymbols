@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DG447
+D SPST analog switch
+F https://www.vishay.com/docs/73854/dg447.pdf
+$ENDCMP
+#
+#End Doc Library
