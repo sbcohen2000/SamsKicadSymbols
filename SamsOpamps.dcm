@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1013
+D Dual single supply precision op amp
+F https://www.ti.com/lit/ds/symlink/lt1013.pdf
+$ENDCMP
+#
+$CMP TLC2272
+D Single supply rail to rail op amp
+F https://www.ti.com/lit/ds/symlink/tlc2274.pdf
+$ENDCMP
+#
+#End Doc Library
