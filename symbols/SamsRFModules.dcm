@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CVCO55BE-2300-2450
+D Voltage controlled oscilator 2.3 Ghz to 2.45 Ghz
+K VCO
+F https://www.crystek.com/microwave/admin/webapps/welcome/files/vco/CVCO55BE-2300-2450.pdf
+$ENDCMP
+#
+#End Doc Library
